@@ -1,0 +1,9 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+node_mobules/**/*
+foo.*
+*.log
+data
