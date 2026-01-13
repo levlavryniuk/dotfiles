@@ -9,6 +9,10 @@ export UWSM_DEFAULT_SESSION=hyprland
 export EDITOR=nvim
 
 alias vim="nvim"
+
+alias gst="git status"
+alias gcam="git commit -am"
+alias ga="git add"
 alias cd="z"
 
 plug "zsh-users/zsh-autosuggestions"
